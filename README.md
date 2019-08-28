@@ -14,6 +14,6 @@ Aplicação feita com node.js para simular um sistema de bloco de notas (funcion
 
 * O arquivo 'notas.json' será criado automaticamente pela aplicação (caso não exista).
 
-* PS: Caso você não queira baixar a pasta 'node_modules', basta ter o Node.js instalado em sua máquina, abrir a pasta pelo terminal e usar o comando 'npm install'. Funcionará pois todas as dependências do projeto já estão configuradas no arquivo 'package.js'.
+* Caso você não queira baixar a pasta 'node_modules', basta ter o Node.js instalado em sua máquina, abrir a pasta pelo terminal e usar o comando 'npm install'. Funcionará pois todas as dependências do projeto já estão configuradas no arquivo 'package.js'.
 
 * Projeto feito apenas para testar conhecimentos e aprendar uma nova tecnologia. Posteriormente farei uma versão web e disponibilizarei o código para a comunidade.
