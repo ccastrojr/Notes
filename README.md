@@ -1,5 +1,5 @@
 # Notes
-Aplicação feita com node.js para simular um sistema de bloco de notas (funciona pelo terminal)
+Aplicação feita com node.js para simular um sistema de bloco de notas.
 
 ## Para testar a aplicação é necessário ter o Node.js instalado em seu computador. ##
 
